@@ -1,0 +1,108 @@
+.index-pages{
+    padding: 0;
+    margin: 0;
+    background-color: #292938;
+    font-family: sans-serif;
+    color: white;
+}
+
+.container{
+    width: 100%;
+   
+
+    
+}
+
+.admin_pages{
+    margin-top: 10%;
+}
+
+.columns {
+
+    width: 50%;
+    float: left;
+    margin-left: 280px;
+    padding: 2%;
+}
+
+.columns:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.bar{
+ 
+    background-color: #171626;
+    width: 150px;
+    position: fixed;
+    height: 100%;
+    float: left;
+    border-radius: 5px;
+  
+}
+
+.bar a{
+    display: block;
+    padding:25%;
+    padding-top: 40%;
+    padding-bottom: 40%;
+    text-decoration: none;
+    color:rgb(173, 123, 82);
+    border-radius: 2px;
+}
+
+.bar a:hover{
+    background-color:rgba(167, 146, 129, 0.1); 
+}
+
+.bar a:first-child{
+    margin-top: 70%;
+}
+
+
+.form{
+    margin-top: 11%;
+    background-color: #171626;
+    width: 30%;
+    float: left;
+    margin-left: 80px;
+    padding: 3%;
+    border-radius: 10px;
+}
+
+.form:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+header{
+    background:#3e345a;
+    color:#ffffff;
+    padding-top:20px;
+    min-height:70px;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+  }
+  
+
+
+
+.main-nav{
+    float: top;
+}
+
+.main-nav ul{
+    list-style: none;
+}
+
+.main-nav ul a {
+    color: inherit;
+    float: top;
+    text-decoration: none;
+}
+
+

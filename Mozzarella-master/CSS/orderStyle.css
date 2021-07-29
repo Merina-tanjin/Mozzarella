@@ -1,0 +1,168 @@
+body {
+    margin: 0%;
+    overflow: scroll;
+    background-color: #292938;
+}
+
+header{
+    background-color:#515081;
+    height: 80%;
+    padding-left: 30px ;
+    padding-right: 10px ;
+}
+
+.logo {
+    height: 50px; 
+    width: 180px;
+    padding: 8px;
+}
+
+ul{
+    align-items: center;
+}
+
+#mng_acc_btn{
+    background-color: #DE6464;
+    color: #FFFFFF;
+    height: 30px;
+    align-items: center;
+    stroke: #DE6464 ;
+}
+header li {
+    display:inline;
+    padding: 0 45px 0 15px;
+}
+
+.main{
+    float: left;
+}
+
+#option_box {
+    background-color:#292938;
+    height: 400px;
+    width: 10%;
+    padding-top: 70px;
+    font-size: bold;
+    position: fixed;
+}
+#options{
+    background-color:#292938;
+    height: 400px;
+}
+
+.optn_btn a{
+    text-decoration: none;
+    color: white;
+}
+
+
+#body {
+    background-color: #292938;
+    height: 100%;
+    width: 70%;
+}
+.optn_btn {
+    font-size: 25px;
+    text-align: left;
+    border: transparent;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: transparent;
+    width: 100%;
+    color: bisque;
+}
+
+.body_h1{
+    color: #cccccc;
+    padding-left: 80px;
+}
+
+
+.box_div{
+    background-color: #292938;
+    height: 100px;
+    width: 97%;
+    padding-left: 3%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.container_div{
+    float: left;   
+}
+.pic_div{
+    height: 100px;
+    width: 176px;
+    min-width: 90px;
+}
+.name_div{
+    background-color: #C4C4C4;
+    height: 100px;
+    width: 350px;
+    align-items: center;
+    padding-left: 10px;
+}
+.amount_div{
+    background-color: #A2A6C9;
+    height: 100px;
+    width: 230px;
+    align-items: center;
+    padding-left: 10px;
+}
+
+
+.box_btn{
+    height: 49px;
+    width: 49px;
+}
+
+#side_q {
+    background-color: rgb(27, 27, 27);
+    position: fixed;
+    left: 80%;
+    color: seashell;
+    padding: 10px;
+    padding-top: 50px;
+    height: 500px;
+    opacity: 40%;
+    overflow-y: scroll;
+}
+
+
+
+#p_input{
+    margin-top: 10px;
+    width: 60px;
+    height: 40px;
+}
+
+.popup{
+    float: left;
+}
+.p_img{
+    margin-left: 10px;
+    height: 60px;
+    width: 90px;
+}
+.p_btn{
+    height: 40px;
+    width: 40px;
+    margin-top: -5px;
+}
+#p_price_div{
+    padding-left:20px;
+    margin-left: 10px;
+    height: 60px;
+    width: 160px;
+}
+
+.modal_length{
+    min-width: 100%;
+}
+
+#ordered_table{
+    color: steelblue;
+}

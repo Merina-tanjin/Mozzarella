@@ -1,0 +1,2 @@
+INSERT INTO `inventory` (`id`, `ing_name`, `quantity(KG)`, `cost_per_kg`, `last_resupply`) VALUES (NULL, 'vegetable oil', '20', '70', '2020-09-21 09:16:26'), (NULL, 'spinach', '20', '10', '2020-09-21 09:16:26');
+UPDATE `customers` SET `id` = '9' WHERE `customers`.`id` = 11;
